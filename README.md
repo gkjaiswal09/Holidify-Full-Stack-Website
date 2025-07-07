@@ -1,4 +1,3 @@
-# Holidify-Full-Stack-Website
 Please insure that, while adding this project you have node modules installed on your folder.
 
 To run the project
